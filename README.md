@@ -1,4 +1,3 @@
----
 
 ````markdown
 # Eldorian Legends: Survival of The Fated 🛡️
