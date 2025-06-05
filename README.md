@@ -64,17 +64,24 @@ Assets/
 
 ---
 
-## ▶️ How to Play
+▶️ How to Run (Development)
 
-1. Clone or download the project.
+    1. Clone or download the project.
     
-2. Open in Unity (tested with **Unity 2022.3.x LTS**).
+    2. Open in Unity (tested with Unity 2022.3.x LTS).
     
-3. Load the first scene (`Forest`) from the Scenes folder.
+    3. Load the first scene (Forest) from the Scenes folder.
     
-4. Press `Play` and begin your survival journey.
-    
+    4. Press Play and begin your survival journey.
 
+---
+
+💾 Download Just the Game (Executable)
+
+If you just want to play the game without opening Unity, download the Windows build here:
+🔗 Download Eldorian Legends – Windows Build (Google Drive)
+
+Unzip the folder and run EldorianLegends.exe.
 ---
 
 ## 👨‍💻 Developers
