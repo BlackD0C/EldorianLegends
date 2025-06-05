@@ -68,6 +68,10 @@ Assets/
 
 📖 GDD (Game Design Document) presentation with gameplay screenshots 
 🔗 [https://drive.google.com/file/d/1L4EoX1Fml2vka-MS_3NBl55CGjUsKEWP/view](https://drive.google.com/file/d/1L4EoX1Fml2vka-MS_3NBl55CGjUsKEWP/view)
+
+📖More about the project
+🔗[https://chenshiri.com/eldorian-legends/](https://chenshiri.com/eldorian-legends/)
+
 ---
 
 ▶️ How to Run (Development)
