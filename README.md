@@ -63,13 +63,13 @@ Assets/
 
 ## 📚 Full Documentation
 
-📖 Complete architecture, feature breakdowns, GDD summary, and technical details can be found here:  
+📖 Complete architecture, feature breakdowns, GDD summary, and technical details can be found here: </br> 
 🔗 [https://blackd0c.github.io/EldorianLegends/](https://blackd0c.github.io/EldorianLegends/)
 
-📖 GDD (Game Design Document) presentation with gameplay screenshots 
+📖 GDD (Game Design Document) presentation with gameplay screenshots </br> 
 🔗 [https://drive.google.com/file/d/1L4EoX1Fml2vka-MS_3NBl55CGjUsKEWP/view](https://drive.google.com/file/d/1L4EoX1Fml2vka-MS_3NBl55CGjUsKEWP/view)
 
-📖More about the project
+📖More about the project </br> 
 🔗[https://chenshiri.com/eldorian-legends/](https://chenshiri.com/eldorian-legends/)
 
 ---
