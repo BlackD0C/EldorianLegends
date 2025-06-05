@@ -1,5 +1,4 @@
 
-````markdown
 # Eldorian Legends: Survival of The Fated 🛡️
 
 A first-person survival adventure game built with Unity by **Chen Shiri** and **Itay David** as the final project for the 2024 Game Development course.
