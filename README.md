@@ -4,6 +4,10 @@
 A first-person survival adventure game built with Unity by **Chen Shiri** and **Itay David** as the final project for the 2024 Game Development course.
 
 > “Survive the unknown. Uncover the forgotten. Escape Eldoria.”
+>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/BlackD0C/EldorianLegends/refs/heads/main/docs/Into%20the%20Fog%20of%20Eldoria.png" alt="Eldoria Banner" width="500"/>
+</div>
 
 ---
 
