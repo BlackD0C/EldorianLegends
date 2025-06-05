@@ -83,7 +83,7 @@ Assets/
 💾 Download Just the Game (Executable)
 
 If you just want to play the game without opening Unity, download the Windows build here:
-🔗 Download Eldorian Legends – Windows Build (Google Drive)
+🔗 Download Eldorian Legends – Windows Build [(Google Drive)](https://drive.google.com/drive/folders/1FhrjSW6rfMcL_UrMNwsIdUB55wQv3T9F?usp=sharing)
 
 Unzip the folder and run EldorianLegends.exe.
 ---
