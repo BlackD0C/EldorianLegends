@@ -4,6 +4,11 @@ _Written by Chen Shiri_
 
 Welcome to the official documentation for **Eldorian Legends: Survival of The Fated**, a fully-featured first-person survival game developed in Unity as the final project for the Game Development course in 2024.
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/BlackD0C/EldorianLegends/refs/heads/main/docs/Into%20the%20Fog%20of%20Eldoria.png" alt="Eldoria Banner" width="500"/>
+</div> 
+</br>
+
 This documentation is intended for:
 
 - 🧑‍💻 **Developers and instructors** who want to explore the architecture, systems, and implementation details.
